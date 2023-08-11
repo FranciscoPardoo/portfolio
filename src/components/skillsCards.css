@@ -1,0 +1,14 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    width: 10vw;
+    height: 25vh;
+    background-color: #303030;
+    border-radius: 15px;
+}
+
+.skills h4 {
+    margin: 5px 0px 0px 0px;
+}

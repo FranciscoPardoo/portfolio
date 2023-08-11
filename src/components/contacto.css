@@ -1,0 +1,11 @@
+.contacto{
+    height: 35rem;
+}
+
+.contacto-buttons{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 5rem;
+}

@@ -1,0 +1,29 @@
+.inicio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: auto;
+    height: 35rem;
+    gap: 50px;
+}
+
+.inicio-title{
+    font-size: 2,2rem;
+    font-weight: 500;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    justify-content: center;
+}
+
+.inicio-title p {
+    margin: 0px
+}
+
+
+.inicio-img{
+    width: 280px;
+    height: 280px;
+    border-radius: 100%;
+}

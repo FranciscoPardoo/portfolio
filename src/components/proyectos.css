@@ -1,0 +1,13 @@
+.proyectos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 35rem;
+}
+
+.proyectos-cards{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
